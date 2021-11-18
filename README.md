@@ -1,4 +1,4 @@
-# sample_flask_app
+# bottle_app
 I am a sample Bottle app to learn about app routing and serivcing endpoints
 
 
@@ -39,6 +39,8 @@ pip3 install -r requirements.txt
 
 * In your browser open the url
     http://127.0.0.1:8080/
+* Or use curl to make a request from a command line
+    * curl 'http://127.0.0.1:8080/'
 
 * see the app in vscode stop on line 7
    

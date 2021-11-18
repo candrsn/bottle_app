@@ -1,11 +1,11 @@
 # bottle_app
-I am a sample Bottle app to learn about app routing and serivcing endpoints
+I am a sample Bottle app to learn about app routing and writing servicing endpoints
 
 
 ## see
-(http://bottlepy.org/docs/dev/)
+(https://bottlepy.org/docs/dev/)
 
-(http://bottlepy.org/docs/dev/routing.html#wildcard-filters)
+(https://bottlepy.org/docs/dev/routing.html#wildcard-filters)
 
 
 We have a number of urls that share a prefix
